@@ -15,7 +15,7 @@ This project was built to solve a practical problem: manually checking large spo
 ![AI Match Review](./screenshots/ai-review.png)
 
 ### Analysis Results
-![Analysis Results](./screenshots/analysis-results.png)
+![Analysis Results](./screenshots/analysis-result.png)
 
 ## Why I built this
 
