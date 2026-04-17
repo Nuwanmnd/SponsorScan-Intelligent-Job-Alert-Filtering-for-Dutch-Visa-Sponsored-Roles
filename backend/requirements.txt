@@ -1,0 +1,15 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+requests
+plyer
+beautifulsoup4
+thefuzz
+python-Levenshtein
+pandas
+lxml
+openpyxl
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
