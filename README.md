@@ -1,9 +1,11 @@
 # SponsorScan
 **Intelligent job alert filtering for visa-sponsored roles**
 
-SponsorScan is a full-stack application that helps international job seekers identify relevant job opportunities more efficiently. It scans Gmail job alerts, matches companies against a recognized sponsor list, filters out less relevant roles such as internships and thesis positions, stores results in SQLite, and provides AI-assisted job analysis and CV/cover-letter tailoring.
+SponsorScan is a full-stack application that helps international job seekers identify relevant job opportunities more efficiently. It processes Gmail job alerts, matches companies against a recognized sponsor list, filters out less relevant roles such as internships and thesis positions, stores results in SQLite, and provides AI-assisted job analysis and application-material suggestions.
 
-This project was built to solve a practical problem: manually checking large sponsor lists against daily job alerts is slow, repetitive, and easy to miss. SponsorScan turns that process into a structured workflow.
+This project was built to solve a practical problem: manually checking large sponsor lists against daily job alerts is slow, repetitive, and easy to miss. SponsorScan turns that process into a structured workflow for job triage and review.
+
+**Note:** SponsorScan is designed as a decision-support tool. It does not automatically submit applications, and final job review remains manual.
 
 ## Demo Preview
 
